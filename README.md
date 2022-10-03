@@ -77,7 +77,7 @@ Lot 3 was a much different situation. The sample mean is 1496.14 with a p-value 
 
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-- To compare the performance of the MechaCar against the competition, we have to think about other metrics that would be of interest to a customer, such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. One of metrics we are going to test is safety rating.
+- To compare the performance of the MechaCar against the competition, we have to think about other metrics that would be of interest to a customer, such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. One of metrics we are going to test is highway fuel efficiency.
 
 In your description, address the following questions:
 What metric or metrics are you going to test?
